@@ -1,13 +1,19 @@
 {
   "files": {
     "main.css": "/final-portfolio/static/css/main.2d70ae4a.css",
-    "main.js": "/final-portfolio/static/js/main.56e67325.js",
+    "main.js": "/final-portfolio/static/js/main.95675b4e.js",
     "static/js/787.c320cb44.chunk.js": "/final-portfolio/static/js/787.c320cb44.chunk.js",
     "static/media/website_ss.png": "/final-portfolio/static/media/website_ss.058bacfa894993e5d243.png",
+    "static/media/stage2.png": "/final-portfolio/static/media/stage2.adb75d8aa97395576003.png",
+    "static/media/stage1.png": "/final-portfolio/static/media/stage1.822d21fd4a9549d2f442.png",
     "static/media/redesign_preview.png": "/final-portfolio/static/media/redesign_preview.eb17cae252e5a0de5f1e.png",
     "static/media/design_guide.png": "/final-portfolio/static/media/design_guide.c12b59c0ddc0e492ee4a.png",
+    "static/media/stage3.png": "/final-portfolio/static/media/stage3.6471acbafd3f192af447.png",
     "static/media/figma_1.jpg": "/final-portfolio/static/media/figma_1.82fb709132ee6f5db985.jpg",
+    "static/media/happy_harold.png": "/final-portfolio/static/media/happy_harold.490a1abba131aab173e1.png",
+    "static/media/serious_stephen.png": "/final-portfolio/static/media/serious_stephen.c1d88e47c001aa0c9fff.png",
     "static/media/graph.png": "/final-portfolio/static/media/graph.d7d2398af36f890881cd.png",
+    "static/media/storyboard.png": "/final-portfolio/static/media/storyboard.1873e4b4dbcc4c4832d1.png",
     "static/media/scaruffi_wireframe_1.png": "/final-portfolio/static/media/scaruffi_wireframe_1.375a429e782017f79c0c.png",
     "static/media/figma_2.jpg": "/final-portfolio/static/media/figma_2.6867a6b36a405b48d8b1.jpg",
     "static/media/scaruffi_wireframe_2.png": "/final-portfolio/static/media/scaruffi_wireframe_2.efa9a8a6083d3f6b4ae8.png",
@@ -46,11 +52,11 @@
     "static/media/logo.svg": "/final-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/final-portfolio/index.html",
     "main.2d70ae4a.css.map": "/final-portfolio/static/css/main.2d70ae4a.css.map",
-    "main.56e67325.js.map": "/final-portfolio/static/js/main.56e67325.js.map",
+    "main.95675b4e.js.map": "/final-portfolio/static/js/main.95675b4e.js.map",
     "787.c320cb44.chunk.js.map": "/final-portfolio/static/js/787.c320cb44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d70ae4a.css",
-    "static/js/main.56e67325.js"
+    "static/js/main.95675b4e.js"
   ]
 }
